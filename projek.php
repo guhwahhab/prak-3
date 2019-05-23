@@ -1,6 +1,7 @@
 <?php
 
 $x = "Hello World";
-exho $x
+$m = "Im Ur World";
+exho $x.$m
 
 ?>
